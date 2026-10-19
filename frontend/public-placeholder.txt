@@ -1,0 +1,1 @@
+PWA offline support is implemented in the React app using a lightweight service worker and IndexedDB draft queue. For production, add app icons and configure HTTPS.
